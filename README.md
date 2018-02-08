@@ -1,2 +1,2 @@
 # net.madran.bby261.bootstrap
-Bootstrap platformu ile ilgil örnek uygulama
+Bootstrap tabanlı bir HTML5 mobil uygulama örneği
